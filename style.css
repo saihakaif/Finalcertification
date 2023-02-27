@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.header{
+    padding: 0 70px;
+    background: linear-gradient(92.04deg,#18184a 24.18%,#19398a 50.95%,#18184a 110.32%);
+    box-shadow: 0 4px 8px 0 hsl(0deg 0% 7% / 50%);
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 200px;
+    height: 90px;
+}
+ 
+.search{
+    height: 50px;
+    width: 50px;
+    float: left;
+    cursor: pointer;
+}
